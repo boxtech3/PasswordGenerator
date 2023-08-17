@@ -8,7 +8,7 @@ import java.util.Random;
 
 /**
  *
- * @author Tristan Description: This is the generator class for the password
+ * @author boxtech3 Description: This is the generator class for the password
  * creator app
  */
 public class Generator {
