@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Tristan Description: Set to run the Password generator
+ * @author boxtech3 Description: Set to run the Password generator
  */
 public class PassWordGen {
 
